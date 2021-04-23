@@ -1,1 +1,2 @@
-# project-1
+# Camp-Scout
+Project 01
